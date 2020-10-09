@@ -25,24 +25,24 @@ pre = "#"
 url = "about"
 weight = 1
 [[menu.main]]
-name = "parts & services"
-pre = "#"
-url = "parts-and-services"
-weight = 2
-[[menu.main]]
 name = "products"
 pre = "#"
 url = "products"
 weight = 3
+[[menu.main]]
+name = "parts & services"
+pre = "#"
+url = "parts-and-services"
+weight = 2
 [[menu.main]]
 name = "team"
 pre = "#"
 url = "team"
 weight = 4
 [[menu.main]]
-name = "pricing"
+name = "gallery"
 pre = "#"
-url = "pricing"
+url = "gallery"
 weight = 5
 [[menu.main]]
 name = "blog"
