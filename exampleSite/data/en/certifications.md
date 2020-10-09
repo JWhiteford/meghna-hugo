@@ -2,7 +2,6 @@
 author = "Inline Industries Inc."
 date = 2020-10-08T06:00:00Z
 description = ""
-draft = true
 image = ""
 image_webp = ""
 title = "Certifications"
