@@ -1,4 +1,4 @@
-baseURL = "https://inline.netlify.com"
+baseURL = "https://inlineindustries.netlify.com"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
