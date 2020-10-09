@@ -30,9 +30,9 @@ pre = "#"
 url = "parts-and-services"
 weight = 2
 [[menu.main]]
-name = "portfolio"
+name = "products"
 pre = "#"
-url = "portfolio"
+url = "products"
 weight = 3
 [[menu.main]]
 name = "team"
