@@ -45,11 +45,6 @@ pre = "#"
 url = "gallery"
 weight = 5
 [[menu.main]]
-name = "blog"
-pre = "#"
-url = "blog"
-weight = 6
-[[menu.main]]
 name = "contact"
 pre = "#"
 url = "contact"
