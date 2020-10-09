@@ -54,7 +54,7 @@ author = "Themefisher"
 description = "Inline Industries Ltd specializing in all types of truckmount tanks, vessels and trailers."
 google_analytics_id = ""
 logo = "images/logo.png"
-post_share = true
+post_share = false
 [params.cookies]
 enable = false
 expire_days = 2
