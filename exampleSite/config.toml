@@ -4,7 +4,7 @@ disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Inline Industries"
+title = "Inline Industries Ltd."
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
@@ -20,40 +20,35 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.main]]
-name = "contact"
+name = "about"
 pre = "#"
-url = "contact"
-weight = 7
+url = "about"
+weight = 1
 [[menu.main]]
-name = "blog"
+name = "products"
 pre = "#"
-url = "blog"
-weight = 6
+url = "products"
+weight = 3
 [[menu.main]]
-name = "pricing"
+name = "parts & services"
 pre = "#"
-url = "pricing"
-weight = 5
+url = "parts-and-services"
+weight = 2
 [[menu.main]]
 name = "team"
 pre = "#"
 url = "team"
 weight = 4
 [[menu.main]]
-name = "portfolio"
+name = "gallery"
 pre = "#"
-url = "portfolio"
-weight = 3
+url = "gallery"
+weight = 5
 [[menu.main]]
-name = "services"
+name = "contact"
 pre = "#"
-url = "services"
-weight = 2
-[[menu.main]]
-name = "about"
-pre = "#"
-url = "about"
-weight = 1
+url = "contact"
+weight = 7
 [params]
 author = "Themefisher"
 description = "Inline Industries Ltd specializing in all types of truckmount tanks, vessels and trailers."
