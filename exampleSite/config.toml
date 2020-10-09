@@ -25,9 +25,9 @@ pre = "#"
 url = "about"
 weight = 1
 [[menu.main]]
-name = "services"
+name = "parts & services"
 pre = "#"
-url = "services"
+url = "parts-and-services"
 weight = 2
 [[menu.main]]
 name = "portfolio"
@@ -54,11 +54,6 @@ name = "contact"
 pre = "#"
 url = "contact"
 weight = 7
-[[menu.main]]
-name = "themefisher"
-pre = ""
-url = "https://themefisher.com/"
-weight = 8
 [params]
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax Hugo Template"
